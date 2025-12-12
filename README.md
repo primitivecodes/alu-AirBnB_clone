@@ -13,5 +13,4 @@ This is a specifuc use-case Shell scripting tool that will enable us to:
 
 
 ## Authors
-* **Daniel Ndungu** <[Mwangi-dan](https://github.com/Mwangi-dan)> <d.ndungu@alustudent.com>
-* **Azeez Mariam** <[Azeezmariam](https://github.com/Azeezmariam)> <m.azeez@alustudent.com>
+* **Premier Ufitinema** <[Mwangi-dan](https://github.com/primitivecodes)> <p.ufitinema@alustudent.com>
