@@ -13,4 +13,4 @@ This is a specifuc use-case Shell scripting tool that will enable us to:
 
 
 ## Authors
-* **Premier Ufitinema** <[Mwangi-dan](https://github.com/primitivecodes)> <p.ufitinema@alustudent.com>
+* **Premier Ufitinema** <[primitivecodes](https://github.com/primitivecodes)> <p.ufitinema@alustudent.com>
